@@ -1,0 +1,7 @@
+id=xiaomi-game-optimizer
+name=[Xiaomi][Isma-Andri] Game optimizer
+description=ignore heat, lower res, activates msaa4X...
+author=Isma-Andri
+version=v1.0.0
+versionCode=1
+repository=https://github.com/Isma-Andri/xiaomi_game_optimizer
